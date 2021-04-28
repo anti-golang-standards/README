@@ -1,6 +1,6 @@
 # Welcome to Anti Golang Standards
 
-This organization collects offending repos from GitHub that violate the [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle) principle for [Golang](https://golang.org/doc/faq#Why_doesnt_Go_have_feature_X).
+This organization collects offending repos from GitHub that violate the [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle) principle for [Golang](https://golang.org/doc/faq#Why_doesnt_Go_have_feature_X) by not following [this](https://golang.org/doc/effective_go).
 
 If you have a project you think that qualifies this criteria, please take the following steps:
 1. File an issue to this repo with the project details and why you think it should be added.
