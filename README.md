@@ -10,4 +10,4 @@ If you have a project you think that qualifies this criteria, please take the fo
 We're still refining the selection and qualification process as we go. If you have ideas or suggestions, please file an issue to this repo.
 
 ### A note on subjectiveness
-What violates and what does not is a subjective decision. We as developers, have tried to accommodate as many repos to give them a fair chance of not being classified as KISS offenders. But if working everyday with a project becomes a chore or introduces unnecessary time sink, that repo deserves a fair trial to be added in to this organization. 
+What violates and what does not is a subjective decision. We as developers, have tried to accommodate as many repos to give them a fair chance of not being classified as offenders. But if working everyday with a project becomes a chore or introduces unnecessary time sink, that repo deserves a fair trial to be added in to this organization. 
