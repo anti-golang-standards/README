@@ -1,4 +1,4 @@
-# README
+# Welcome to Anti Golang Standards
 
 This organization collects offending repos from GitHub that violate the [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle) principle for [Golang](https://golang.org/doc/faq#Why_doesnt_Go_have_feature_X).
 
