@@ -1,7 +1,7 @@
 ---
 name: Report a New Project
 about: File this issue to add a new project
-title: Project Name
+title: ''
 labels: ''
 assignees: ''
 
