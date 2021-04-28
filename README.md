@@ -5,7 +5,7 @@ This organization collects offending repos from GitHub that violate the [K.I.S.S
 If you have a project you think that qualifies this criteria, please take the following steps:
 1. File an issue to this repo with the project details and why you think it should be added.
 2. A public vote will take place with users voting for/against the idea with comments/reactions.
-3. Unless there's a strong against sentiment/votes, the project will be incubated into the organization.
+3. Unless there's a strong _against_ sentiment and/or votes, the project will be incubated into the organization.
 
 We're still refining the selection and qualification process as we go. If you have ideas or suggestions, please file an issue to this repo.
 
